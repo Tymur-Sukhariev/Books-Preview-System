@@ -13,7 +13,8 @@ A lightweight book preview system built with **Vanilla JavaScript**, utilizing *
 ### 📋 List Page  
 - Displays search results with book covers and basic details.  
 - Clicking on a book redirects to its detailed preview.
-  <img width="2048" alt="Screenshot 2025-03-07 at 18 26 01" src="https://github.com/user-attachments/assets/788f54a7-f78b-4aa2-8e7e-4366fde3fa85" />
+<img width="2048" alt="Screenshot 2025-03-07 at 18 25 32" src="https://github.com/user-attachments/assets/af1ffff3-019a-4420-9b7d-6e13783435ac" />
+
 
 ### 📖 Detailed Page  
 - **Interactive book preview** with in-window navigation.  
