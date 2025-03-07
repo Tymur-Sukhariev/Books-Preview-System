@@ -16,7 +16,7 @@ click.addEventListener('click', () => {
     }else{
         showPreloader()
 
-        fetch(`https://www.googleapis.com/books/v1/volumes?q=${query}&key=AIzaSyA82j0CN_EhbUE58ZZKuq78cDy4JFJm6UE&maxResults=40`)
+        fetch(`https://www.googleapis.com/books/v1/volumes?q=${query}&key=${env.API_KEY}`)
         .then((response)=>{
            return response.json();
         })
